@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3220" started-at="2022-12-06T15:31:34 IST" finished-at="2022-12-06T15:31:37 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3220" started-at="2022-12-06T15:31:34 IST" finished-at="2022-12-06T15:31:37 IST">
+      <class name="org.ExtentReports.ExtentReportExample">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:org.ExtentReports.ExtentReportExample@1a8a8f7c]" name="launchBrowser" is-config="true" duration-ms="3398" started-at="2022-12-06T15:31:30 IST" finished-at="2022-12-06T15:31:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="openBing()[pri:0, instance:org.ExtentReports.ExtentReportExample@1a8a8f7c]" name="openBing" duration-ms="1366" started-at="2022-12-06T15:31:34 IST" finished-at="2022-12-06T15:31:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBing -->
+        <test-method status="PASS" signature="openGoogle()[pri:0, instance:org.ExtentReports.ExtentReportExample@1a8a8f7c]" name="openGoogle" duration-ms="1267" started-at="2022-12-06T15:31:35 IST" finished-at="2022-12-06T15:31:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openGoogle -->
+        <test-method status="PASS" signature="openWikipedia()[pri:0, instance:org.ExtentReports.ExtentReportExample@1a8a8f7c]" name="openWikipedia" duration-ms="566" started-at="2022-12-06T15:31:37 IST" finished-at="2022-12-06T15:31:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openWikipedia -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:org.ExtentReports.ExtentReportExample@1a8a8f7c]" name="closeBrowser" is-config="true" duration-ms="818" started-at="2022-12-06T15:31:37 IST" finished-at="2022-12-06T15:31:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- org.ExtentReports.ExtentReportExample -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
